@@ -1,3 +1,7 @@
+# Hello World!
+
+I'm applying for the Ada Developers Academy, so I'm setting up this Github page for all my Ada-related things. Here's hoping I get in! Ada or Bust!
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
